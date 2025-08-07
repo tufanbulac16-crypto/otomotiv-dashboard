@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  background-color: #f3f4f6;
+}
+
+.App h1 {
+  color: #1f2937;
+  margin-bottom: 20px;
+}
+
+.App ul {
+  list-style: none;
+  padding: 0;
+}
+
+.App li {
+  margin: 10px 0;
+  font-size: 1.1rem;
+}
